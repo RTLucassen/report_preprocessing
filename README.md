@@ -4,6 +4,6 @@ This repository contains all code to support the paper:
 
 ## TO DO list
 - [x] Add code for text translation
-- [ ] Add code for text segmentation
+- [x] Add code for text segmentation
 - [ ] Add model parameters
 - [ ] Add explanation to README
