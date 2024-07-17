@@ -3,6 +3,8 @@ This repository contains all code to support the paper:
 
 ***"Preprocessing Pathology Reports for Vision-Language Model Development"***.
 
+Accepted at the MICCAI 2024 COMPAYL workshop.
+
 <div align="center">
   <img width="100%" alt="Overview" src=".github\overview.png">
 </div>
