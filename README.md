@@ -5,6 +5,8 @@ This repository contains all code to support the paper:
 
 Accepted at the MICCAI 2024 COMPAYL workshop.
 
+[[`OpenReview`](https://openreview.net/forum?id=SUgnMdiJ2q)]
+
 <div align="center">
   <img width="100%" alt="Overview" src=".github\overview.png">
 </div>
