@@ -5,7 +5,7 @@ This repository contains all code to support the paper:
 
 Accepted at the MICCAI 2024 COMPAYL workshop.
 
-[[`PLMR`](https://proceedings.mlr.press/v254/lucassen24a.html)] [[`OpenReview`](https://openreview.net/forum?id=SUgnMdiJ2q)] [[`Poster`](https://github.com/RTLucassen/report_preprocessing/tree/main/.github/poster.pdf)]
+[[`PLMR`](https://proceedings.mlr.press/v254/lucassen24a.html)] [[`OpenReview`](https://openreview.net/forum?id=SUgnMdiJ2q)] [[`COMPAYL Poster`](https://github.com/RTLucassen/report_preprocessing/tree/main/.github/poster.pdf)]
 
 <div align="center">
   <img width="100%" alt="Overview" src=".github\overview.png">
