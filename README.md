@@ -2,7 +2,7 @@
 
 # Preprocessing Pathology Reports for Vision-Language Model Development
 
-Ruben Lucassen, Tijn van de Luijtgaarden, Sander Moonemans, Willeke Blokx & Mitko Veta
+Ruben T. Lucassen, Tijn van de Luijtgaarden, Sander P. J. Moonemans, Willeke A. M. Blokx & Mitko Veta
 
 *Accepted at the MICCAI 2024 COMPAYL workshop*
 
