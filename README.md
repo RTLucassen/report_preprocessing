@@ -1,13 +1,13 @@
+<div align="center">
+
 # Preprocessing Pathology Reports for Vision-Language Model Development
-This repository contains all code to support the paper:  
 
-***"Preprocessing Pathology Reports for Vision-Language Model Development"***.
+Ruben Lucassen, Tijn van de Luijtgaarden, Sander Moonemans, Willeke Blokx & Mitko Veta
 
-Accepted at the MICCAI 2024 COMPAYL workshop.
+*Accepted at the MICCAI 2024 COMPAYL workshop*
 
 [[`OpenReview`](https://openreview.net/forum?id=SUgnMdiJ2q)] [[`PLMR`](https://proceedings.mlr.press/v254/lucassen24a.html)] [[`COMPAYL Poster`](https://github.com/RTLucassen/report_preprocessing/tree/main/.github/poster.pdf)]
 
-<div align="center">
   <img width="100%" alt="Overview" src=".github\overview.png">
 </div>
 
